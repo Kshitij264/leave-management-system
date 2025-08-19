@@ -10,7 +10,7 @@ The deployed API is live and can be accessed at: **https://leave-management-syst
 
 The application follows a simple 3-tier architecture, consisting of a client, a backend server, and a database.
 
-![High-Level Design Diagram](D:\Desktop\leave-management-system\hld.png)
+![High-Level Design Diagram](./hld.png)
 
 ## Setup and Installation
 
